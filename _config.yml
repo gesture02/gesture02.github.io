@@ -1,6 +1,6 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
+title: 코딩공부 # name of the site
+author: kevin # name of site's author
+email: gmail.com # email of site's author
 url: "https://gesture02.github.io/" # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
