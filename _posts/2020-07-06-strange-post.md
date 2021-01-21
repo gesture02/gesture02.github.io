@@ -2,4 +2,4 @@
 layout: post
 ---
 
-This post is strange
+영어로 써야하냐
